@@ -4,7 +4,7 @@ source 'https://rubygems.org'
 gem 'rails', '4.0.1'
 
 # Use sqlite3 as the database for Active Record
-gem 'sqlite3'
+gem 'sqlite3', '~> 1.3.8'
 
 # Use SCSS for stylesheets
 gem 'sass-rails', '~> 4.0.0'
@@ -19,13 +19,26 @@ gem 'coffee-rails', '~> 4.0.0'
 # gem 'therubyracer', platforms: :ruby
 
 # Use jquery as the JavaScript library
-gem 'jquery-rails'
 
 # Turbolinks makes following links in your web application faster. Read more: https://github.com/rails/turbolinks
-gem 'turbolinks'
+gem 'turbolinks', '~> 1.3.1'
 
 # Build JSON APIs with ease. Read more: https://github.com/rails/jbuilder
 gem 'jbuilder', '~> 1.2'
+
+gem "jquery-rails", '~> 3.0.4'
+gem "rspec-rails",  '~> 2.14.0'
+gem "database_cleaner", '~> 1.2.0'
+gem "email_spec", '~> 1.5.0'
+gem "cucumber-rails", '~> 1.4.0'
+gem "launchy", '~> 2.4.0'
+gem "capybara", '~> 2.1.0'
+gem "factory_girl_rails", '~> 4.3.0'
+gem "devise", '~> 3.2.1'
+gem "quiet_assets", '~> 1.0.2'
+gem "figaro", '~> 0.7.0'
+gem "better_errors", '~> 1.0.1'
+gem "binding_of_caller", '~> 0.7.2'
 
 group :doc do
   # bundle exec rake doc:rails generates the API under doc/api.

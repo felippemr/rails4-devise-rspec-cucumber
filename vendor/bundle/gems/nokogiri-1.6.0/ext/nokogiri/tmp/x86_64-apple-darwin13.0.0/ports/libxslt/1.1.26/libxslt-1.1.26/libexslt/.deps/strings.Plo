@@ -1,0 +1,286 @@
+strings.lo: strings.c ../libexslt/libexslt.h ../config.h \
+  ../libxslt/xsltconfig.h \
+  /Users/felippe/Projetos/rails4-devise-rspec-cucumber/vendor/bundle/gems/nokogiri-1.6.0/ports/x86_64-apple-darwin13.0.0/libxml2/2.8.0/include/libxml2/libxml/xmlversion.h \
+  /Users/felippe/Projetos/rails4-devise-rspec-cucumber/vendor/bundle/gems/nokogiri-1.6.0/ports/x86_64-apple-darwin13.0.0/libxml2/2.8.0/include/libxml2/libxml/xmlexports.h \
+  /Users/felippe/Projetos/rails4-devise-rspec-cucumber/vendor/bundle/gems/nokogiri-1.6.0/ports/x86_64-apple-darwin13.0.0/libxml2/2.8.0/include/libxml2/libxml/tree.h \
+  /usr/include/stdio.h /usr/include/sys/cdefs.h \
+  /usr/include/sys/_symbol_aliasing.h \
+  /usr/include/sys/_posix_availability.h /usr/include/Availability.h \
+  /usr/include/AvailabilityInternal.h /usr/include/_types.h \
+  /usr/include/sys/_types.h /usr/include/machine/_types.h \
+  /usr/include/i386/_types.h /usr/include/sys/_types/_va_list.h \
+  /usr/include/sys/_types/_size_t.h /usr/include/sys/_types/_null.h \
+  /usr/include/sys/_types/_off_t.h /usr/include/sys/_types/_ssize_t.h \
+  /usr/include/secure/_stdio.h /usr/include/secure/_common.h \
+  /Users/felippe/Projetos/rails4-devise-rspec-cucumber/vendor/bundle/gems/nokogiri-1.6.0/ports/x86_64-apple-darwin13.0.0/libxml2/2.8.0/include/libxml2/libxml/xmlstring.h \
+  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../lib/clang/5.0/include/stdarg.h \
+  /Users/felippe/Projetos/rails4-devise-rspec-cucumber/vendor/bundle/gems/nokogiri-1.6.0/ports/x86_64-apple-darwin13.0.0/libxml2/2.8.0/include/libxml2/libxml/xmlregexp.h \
+  /Users/felippe/Projetos/rails4-devise-rspec-cucumber/vendor/bundle/gems/nokogiri-1.6.0/ports/x86_64-apple-darwin13.0.0/libxml2/2.8.0/include/libxml2/libxml/dict.h \
+  /Users/felippe/Projetos/rails4-devise-rspec-cucumber/vendor/bundle/gems/nokogiri-1.6.0/ports/x86_64-apple-darwin13.0.0/libxml2/2.8.0/include/libxml2/libxml/xmlmemory.h \
+  /Users/felippe/Projetos/rails4-devise-rspec-cucumber/vendor/bundle/gems/nokogiri-1.6.0/ports/x86_64-apple-darwin13.0.0/libxml2/2.8.0/include/libxml2/libxml/threads.h \
+  /Users/felippe/Projetos/rails4-devise-rspec-cucumber/vendor/bundle/gems/nokogiri-1.6.0/ports/x86_64-apple-darwin13.0.0/libxml2/2.8.0/include/libxml2/libxml/globals.h \
+  /Users/felippe/Projetos/rails4-devise-rspec-cucumber/vendor/bundle/gems/nokogiri-1.6.0/ports/x86_64-apple-darwin13.0.0/libxml2/2.8.0/include/libxml2/libxml/parser.h \
+  /Users/felippe/Projetos/rails4-devise-rspec-cucumber/vendor/bundle/gems/nokogiri-1.6.0/ports/x86_64-apple-darwin13.0.0/libxml2/2.8.0/include/libxml2/libxml/hash.h \
+  /Users/felippe/Projetos/rails4-devise-rspec-cucumber/vendor/bundle/gems/nokogiri-1.6.0/ports/x86_64-apple-darwin13.0.0/libxml2/2.8.0/include/libxml2/libxml/valid.h \
+  /Users/felippe/Projetos/rails4-devise-rspec-cucumber/vendor/bundle/gems/nokogiri-1.6.0/ports/x86_64-apple-darwin13.0.0/libxml2/2.8.0/include/libxml2/libxml/xmlerror.h \
+  /Users/felippe/Projetos/rails4-devise-rspec-cucumber/vendor/bundle/gems/nokogiri-1.6.0/ports/x86_64-apple-darwin13.0.0/libxml2/2.8.0/include/libxml2/libxml/list.h \
+  /Users/felippe/Projetos/rails4-devise-rspec-cucumber/vendor/bundle/gems/nokogiri-1.6.0/ports/x86_64-apple-darwin13.0.0/libxml2/2.8.0/include/libxml2/libxml/xmlautomata.h \
+  /Users/felippe/Projetos/rails4-devise-rspec-cucumber/vendor/bundle/gems/nokogiri-1.6.0/ports/x86_64-apple-darwin13.0.0/libxml2/2.8.0/include/libxml2/libxml/entities.h \
+  /Users/felippe/Projetos/rails4-devise-rspec-cucumber/vendor/bundle/gems/nokogiri-1.6.0/ports/x86_64-apple-darwin13.0.0/libxml2/2.8.0/include/libxml2/libxml/encoding.h \
+  /usr/include/iconv.h /usr/include/sys/_types/_wchar_t.h \
+  /Users/felippe/Projetos/rails4-devise-rspec-cucumber/vendor/bundle/gems/nokogiri-1.6.0/ports/x86_64-apple-darwin13.0.0/libxml2/2.8.0/include/libxml2/libxml/xmlIO.h \
+  /Users/felippe/Projetos/rails4-devise-rspec-cucumber/vendor/bundle/gems/nokogiri-1.6.0/ports/x86_64-apple-darwin13.0.0/libxml2/2.8.0/include/libxml2/libxml/SAX.h \
+  /usr/include/stdlib.h /usr/include/sys/wait.h \
+  /usr/include/sys/_types/_pid_t.h /usr/include/sys/_types/_id_t.h \
+  /usr/include/sys/signal.h /usr/include/sys/appleapiopts.h \
+  /usr/include/machine/signal.h /usr/include/i386/signal.h \
+  /usr/include/machine/_mcontext.h /usr/include/i386/_mcontext.h \
+  /usr/include/mach/i386/_structs.h \
+  /usr/include/sys/_types/_sigaltstack.h \
+  /usr/include/sys/_types/_ucontext.h \
+  /usr/include/sys/_types/_pthread_attr_t.h \
+  /usr/include/sys/_types/_sigset_t.h /usr/include/sys/_types/_uid_t.h \
+  /usr/include/sys/resource.h \
+  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../lib/clang/5.0/include/stdint.h \
+  /usr/include/stdint.h /usr/include/sys/_types/_int8_t.h \
+  /usr/include/sys/_types/_int16_t.h /usr/include/sys/_types/_int32_t.h \
+  /usr/include/sys/_types/_int64_t.h /usr/include/_types/_uint8_t.h \
+  /usr/include/_types/_uint16_t.h /usr/include/_types/_uint32_t.h \
+  /usr/include/_types/_uint64_t.h /usr/include/sys/_types/_intptr_t.h \
+  /usr/include/sys/_types/_uintptr_t.h /usr/include/_types/_intmax_t.h \
+  /usr/include/_types/_uintmax_t.h /usr/include/sys/_types/_timeval.h \
+  /usr/include/machine/endian.h /usr/include/i386/endian.h \
+  /usr/include/sys/_endian.h /usr/include/libkern/_OSByteOrder.h \
+  /usr/include/libkern/i386/_OSByteOrder.h /usr/include/alloca.h \
+  /usr/include/sys/_types/_ct_rune_t.h /usr/include/sys/_types/_rune_t.h \
+  /usr/include/machine/types.h /usr/include/i386/types.h \
+  /usr/include/sys/_types/___offsetof.h /usr/include/sys/_types/_dev_t.h \
+  /usr/include/sys/_types/_mode_t.h \
+  /Users/felippe/Projetos/rails4-devise-rspec-cucumber/vendor/bundle/gems/nokogiri-1.6.0/ports/x86_64-apple-darwin13.0.0/libxml2/2.8.0/include/libxml2/libxml/xlink.h \
+  /Users/felippe/Projetos/rails4-devise-rspec-cucumber/vendor/bundle/gems/nokogiri-1.6.0/ports/x86_64-apple-darwin13.0.0/libxml2/2.8.0/include/libxml2/libxml/SAX2.h \
+  /Users/felippe/Projetos/rails4-devise-rspec-cucumber/vendor/bundle/gems/nokogiri-1.6.0/ports/x86_64-apple-darwin13.0.0/libxml2/2.8.0/include/libxml2/libxml/xpath.h \
+  /Users/felippe/Projetos/rails4-devise-rspec-cucumber/vendor/bundle/gems/nokogiri-1.6.0/ports/x86_64-apple-darwin13.0.0/libxml2/2.8.0/include/libxml2/libxml/xpathInternals.h \
+  /Users/felippe/Projetos/rails4-devise-rspec-cucumber/vendor/bundle/gems/nokogiri-1.6.0/ports/x86_64-apple-darwin13.0.0/libxml2/2.8.0/include/libxml2/libxml/uri.h \
+  ../libxslt/xsltutils.h ../libxslt/xsltexports.h \
+  ../libxslt/xsltInternals.h ../libxslt/xslt.h ../libxslt/xsltlocale.h \
+  /usr/include/locale.h /usr/include/_locale.h /usr/include/xlocale.h \
+  /usr/include/_xlocale.h /usr/include/xlocale/_stdio.h \
+  /usr/include/xlocale/_stdlib.h ../libxslt/numbersInternals.h \
+  ../libxslt/extensions.h exslt.h exsltexports.h \
+  ../libexslt/exsltconfig.h
+
+../libexslt/libexslt.h:
+
+../config.h:
+
+../libxslt/xsltconfig.h:
+
+/Users/felippe/Projetos/rails4-devise-rspec-cucumber/vendor/bundle/gems/nokogiri-1.6.0/ports/x86_64-apple-darwin13.0.0/libxml2/2.8.0/include/libxml2/libxml/xmlversion.h:
+
+/Users/felippe/Projetos/rails4-devise-rspec-cucumber/vendor/bundle/gems/nokogiri-1.6.0/ports/x86_64-apple-darwin13.0.0/libxml2/2.8.0/include/libxml2/libxml/xmlexports.h:
+
+/Users/felippe/Projetos/rails4-devise-rspec-cucumber/vendor/bundle/gems/nokogiri-1.6.0/ports/x86_64-apple-darwin13.0.0/libxml2/2.8.0/include/libxml2/libxml/tree.h:
+
+/usr/include/stdio.h:
+
+/usr/include/sys/cdefs.h:
+
+/usr/include/sys/_symbol_aliasing.h:
+
+/usr/include/sys/_posix_availability.h:
+
+/usr/include/Availability.h:
+
+/usr/include/AvailabilityInternal.h:
+
+/usr/include/_types.h:
+
+/usr/include/sys/_types.h:
+
+/usr/include/machine/_types.h:
+
+/usr/include/i386/_types.h:
+
+/usr/include/sys/_types/_va_list.h:
+
+/usr/include/sys/_types/_size_t.h:
+
+/usr/include/sys/_types/_null.h:
+
+/usr/include/sys/_types/_off_t.h:
+
+/usr/include/sys/_types/_ssize_t.h:
+
+/usr/include/secure/_stdio.h:
+
+/usr/include/secure/_common.h:
+
+/Users/felippe/Projetos/rails4-devise-rspec-cucumber/vendor/bundle/gems/nokogiri-1.6.0/ports/x86_64-apple-darwin13.0.0/libxml2/2.8.0/include/libxml2/libxml/xmlstring.h:
+
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../lib/clang/5.0/include/stdarg.h:
+
+/Users/felippe/Projetos/rails4-devise-rspec-cucumber/vendor/bundle/gems/nokogiri-1.6.0/ports/x86_64-apple-darwin13.0.0/libxml2/2.8.0/include/libxml2/libxml/xmlregexp.h:
+
+/Users/felippe/Projetos/rails4-devise-rspec-cucumber/vendor/bundle/gems/nokogiri-1.6.0/ports/x86_64-apple-darwin13.0.0/libxml2/2.8.0/include/libxml2/libxml/dict.h:
+
+/Users/felippe/Projetos/rails4-devise-rspec-cucumber/vendor/bundle/gems/nokogiri-1.6.0/ports/x86_64-apple-darwin13.0.0/libxml2/2.8.0/include/libxml2/libxml/xmlmemory.h:
+
+/Users/felippe/Projetos/rails4-devise-rspec-cucumber/vendor/bundle/gems/nokogiri-1.6.0/ports/x86_64-apple-darwin13.0.0/libxml2/2.8.0/include/libxml2/libxml/threads.h:
+
+/Users/felippe/Projetos/rails4-devise-rspec-cucumber/vendor/bundle/gems/nokogiri-1.6.0/ports/x86_64-apple-darwin13.0.0/libxml2/2.8.0/include/libxml2/libxml/globals.h:
+
+/Users/felippe/Projetos/rails4-devise-rspec-cucumber/vendor/bundle/gems/nokogiri-1.6.0/ports/x86_64-apple-darwin13.0.0/libxml2/2.8.0/include/libxml2/libxml/parser.h:
+
+/Users/felippe/Projetos/rails4-devise-rspec-cucumber/vendor/bundle/gems/nokogiri-1.6.0/ports/x86_64-apple-darwin13.0.0/libxml2/2.8.0/include/libxml2/libxml/hash.h:
+
+/Users/felippe/Projetos/rails4-devise-rspec-cucumber/vendor/bundle/gems/nokogiri-1.6.0/ports/x86_64-apple-darwin13.0.0/libxml2/2.8.0/include/libxml2/libxml/valid.h:
+
+/Users/felippe/Projetos/rails4-devise-rspec-cucumber/vendor/bundle/gems/nokogiri-1.6.0/ports/x86_64-apple-darwin13.0.0/libxml2/2.8.0/include/libxml2/libxml/xmlerror.h:
+
+/Users/felippe/Projetos/rails4-devise-rspec-cucumber/vendor/bundle/gems/nokogiri-1.6.0/ports/x86_64-apple-darwin13.0.0/libxml2/2.8.0/include/libxml2/libxml/list.h:
+
+/Users/felippe/Projetos/rails4-devise-rspec-cucumber/vendor/bundle/gems/nokogiri-1.6.0/ports/x86_64-apple-darwin13.0.0/libxml2/2.8.0/include/libxml2/libxml/xmlautomata.h:
+
+/Users/felippe/Projetos/rails4-devise-rspec-cucumber/vendor/bundle/gems/nokogiri-1.6.0/ports/x86_64-apple-darwin13.0.0/libxml2/2.8.0/include/libxml2/libxml/entities.h:
+
+/Users/felippe/Projetos/rails4-devise-rspec-cucumber/vendor/bundle/gems/nokogiri-1.6.0/ports/x86_64-apple-darwin13.0.0/libxml2/2.8.0/include/libxml2/libxml/encoding.h:
+
+/usr/include/iconv.h:
+
+/usr/include/sys/_types/_wchar_t.h:
+
+/Users/felippe/Projetos/rails4-devise-rspec-cucumber/vendor/bundle/gems/nokogiri-1.6.0/ports/x86_64-apple-darwin13.0.0/libxml2/2.8.0/include/libxml2/libxml/xmlIO.h:
+
+/Users/felippe/Projetos/rails4-devise-rspec-cucumber/vendor/bundle/gems/nokogiri-1.6.0/ports/x86_64-apple-darwin13.0.0/libxml2/2.8.0/include/libxml2/libxml/SAX.h:
+
+/usr/include/stdlib.h:
+
+/usr/include/sys/wait.h:
+
+/usr/include/sys/_types/_pid_t.h:
+
+/usr/include/sys/_types/_id_t.h:
+
+/usr/include/sys/signal.h:
+
+/usr/include/sys/appleapiopts.h:
+
+/usr/include/machine/signal.h:
+
+/usr/include/i386/signal.h:
+
+/usr/include/machine/_mcontext.h:
+
+/usr/include/i386/_mcontext.h:
+
+/usr/include/mach/i386/_structs.h:
+
+/usr/include/sys/_types/_sigaltstack.h:
+
+/usr/include/sys/_types/_ucontext.h:
+
+/usr/include/sys/_types/_pthread_attr_t.h:
+
+/usr/include/sys/_types/_sigset_t.h:
+
+/usr/include/sys/_types/_uid_t.h:
+
+/usr/include/sys/resource.h:
+
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../lib/clang/5.0/include/stdint.h:
+
+/usr/include/stdint.h:
+
+/usr/include/sys/_types/_int8_t.h:
+
+/usr/include/sys/_types/_int16_t.h:
+
+/usr/include/sys/_types/_int32_t.h:
+
+/usr/include/sys/_types/_int64_t.h:
+
+/usr/include/_types/_uint8_t.h:
+
+/usr/include/_types/_uint16_t.h:
+
+/usr/include/_types/_uint32_t.h:
+
+/usr/include/_types/_uint64_t.h:
+
+/usr/include/sys/_types/_intptr_t.h:
+
+/usr/include/sys/_types/_uintptr_t.h:
+
+/usr/include/_types/_intmax_t.h:
+
+/usr/include/_types/_uintmax_t.h:
+
+/usr/include/sys/_types/_timeval.h:
+
+/usr/include/machine/endian.h:
+
+/usr/include/i386/endian.h:
+
+/usr/include/sys/_endian.h:
+
+/usr/include/libkern/_OSByteOrder.h:
+
+/usr/include/libkern/i386/_OSByteOrder.h:
+
+/usr/include/alloca.h:
+
+/usr/include/sys/_types/_ct_rune_t.h:
+
+/usr/include/sys/_types/_rune_t.h:
+
+/usr/include/machine/types.h:
+
+/usr/include/i386/types.h:
+
+/usr/include/sys/_types/___offsetof.h:
+
+/usr/include/sys/_types/_dev_t.h:
+
+/usr/include/sys/_types/_mode_t.h:
+
+/Users/felippe/Projetos/rails4-devise-rspec-cucumber/vendor/bundle/gems/nokogiri-1.6.0/ports/x86_64-apple-darwin13.0.0/libxml2/2.8.0/include/libxml2/libxml/xlink.h:
+
+/Users/felippe/Projetos/rails4-devise-rspec-cucumber/vendor/bundle/gems/nokogiri-1.6.0/ports/x86_64-apple-darwin13.0.0/libxml2/2.8.0/include/libxml2/libxml/SAX2.h:
+
+/Users/felippe/Projetos/rails4-devise-rspec-cucumber/vendor/bundle/gems/nokogiri-1.6.0/ports/x86_64-apple-darwin13.0.0/libxml2/2.8.0/include/libxml2/libxml/xpath.h:
+
+/Users/felippe/Projetos/rails4-devise-rspec-cucumber/vendor/bundle/gems/nokogiri-1.6.0/ports/x86_64-apple-darwin13.0.0/libxml2/2.8.0/include/libxml2/libxml/xpathInternals.h:
+
+/Users/felippe/Projetos/rails4-devise-rspec-cucumber/vendor/bundle/gems/nokogiri-1.6.0/ports/x86_64-apple-darwin13.0.0/libxml2/2.8.0/include/libxml2/libxml/uri.h:
+
+../libxslt/xsltutils.h:
+
+../libxslt/xsltexports.h:
+
+../libxslt/xsltInternals.h:
+
+../libxslt/xslt.h:
+
+../libxslt/xsltlocale.h:
+
+/usr/include/locale.h:
+
+/usr/include/_locale.h:
+
+/usr/include/xlocale.h:
+
+/usr/include/_xlocale.h:
+
+/usr/include/xlocale/_stdio.h:
+
+/usr/include/xlocale/_stdlib.h:
+
+../libxslt/numbersInternals.h:
+
+../libxslt/extensions.h:
+
+exslt.h:
+
+exsltexports.h:
+
+../libexslt/exsltconfig.h:
