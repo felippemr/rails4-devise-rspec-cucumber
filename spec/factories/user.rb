@@ -4,6 +4,5 @@ FactoryGirl.define do
     email 'anakin.skywalker@sw.com'
     password 'theforce'
     password_confirmation 'theforce'
-    confirmed_at Time.now
   end
 end
