@@ -7,6 +7,9 @@ gem 'jbuilder',             '~> 1.2'
 gem "jquery-rails",         '~> 3.0.4'
 gem "devise",               '~> 3.2.1'
 gem "quiet_assets",         '~> 1.0.2'
+gem 'omniauth',             '~> 1.1.4'
+gem 'omniauth-facebook',    '~> 1.5.1'
+gem 'oauth2',               '~> 0.8.1'
 
 group :assets do
   gem 'sass-rails',         '~> 4.0.0'
