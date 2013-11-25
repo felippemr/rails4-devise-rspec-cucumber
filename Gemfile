@@ -11,6 +11,7 @@ gem 'omniauth',             '~> 1.1.4'
 gem 'omniauth-facebook',    '~> 1.5.1'
 gem 'oauth2',               '~> 0.8.1'
 gem 'activerecord-session_store', github: 'rails/activerecord-session_store'
+gem 'omniauth-google-oauth2', '~> 0.2.1'
 
 group :assets do
   gem 'sass-rails',         '~> 4.0.0'
