@@ -16,6 +16,7 @@
         <%= render 'layouts/messages' %>
       </header>
       <div id="main" role="main">
+      <%= link_to "Sign in with Facebook", user_omniauth_authorize_path(:facebook) %>
         <%= yield %>
       </div>
       <footer>
